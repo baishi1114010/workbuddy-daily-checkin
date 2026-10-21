@@ -1,5 +1,8 @@
 # WorkBuddy 每日签到领积分（macOS Skill）
 
+![WorkBuddy 每日签到 · GitHub 发布图](docs/github-release-banner.jpg)
+
+
 自动领取 WorkBuddy 客户端「Buddy加油站」每日免费积分（每日约 100 通用积分）。面向 Cursor / WorkBuddy 等支持 Agent Skill 的客户端使用。
 
 > **仅支持 macOS。** Windows 暂不提供。
